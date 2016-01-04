@@ -1,0 +1,3 @@
+# Creative Explorations in Screen-Based and Physical Computing
+
+This course offers an introduction to computing as an expressive medium. We prototype, exhibit, and critique interactive, computational stories, art, and games presented as web applications and physical prototypes. We use JavaScript as a unifying language for programmatically controlling and combining audio, video, graphics, text, sensors, and actuators in these projects. Processing.js, D3.js, and Snap.js help us create data-rich, interactive visualizations, and Tessel.io serves as the microcontroller platform for our physical computing work.

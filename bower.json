@@ -1,0 +1,8 @@
+{
+    "name": "DGMD-E-15",
+    "dependencies": {
+        "processing.js": "jeresig/processing-js",
+        "d3": "latest",
+        "snap.js": "jakiestfu/Snap.js"
+    }
+}
